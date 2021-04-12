@@ -1,0 +1,33 @@
+> year1 <- table(suicide_attempts$year)
+> barplot(year1,main = " year distribution")
+> country1 <- table(suicide_attempts$country)
+> barplot(country1, main="country distribution",xlab = "Name of country" )
+> age_s <-table(suicide_attempts$sex,suicide_attempts$age)
+> barplot(age_s,main = " suicide_attempt Distribution by age and sex",xlab = "year",col = c("darkblue","red"),legend=rownames(age_s))
+> barplot(age_s,main = "Suicide attempt distribution by age and sex",xlab = "year",col = c("darkblue","red"),legend=rownames(age_s),beside = TRUE)
+server.R
+library(shiny)
+
+shinyServer(function(input,output){
+  output$bar <- renderPlot({
+    
+    bar2 <- tapply(suicide_attempts$country, list(suicide_attempts$sex,suicide_attempts$age),mean)
+    barplot(bar2,beside = input$sidebar)
+  }
+    
+  )
+}
+  )
+ui.R
+shinyUI(fluidPage(
+  titlePanel("bar chart"),
+  
+  sidebarLayout(
+    sidebarPanel(
+      checkboxInput("sidebar","create side bar")
+    ),
+    mainPanel(
+      plotOutput("bar")
+    )
+  )
+))
