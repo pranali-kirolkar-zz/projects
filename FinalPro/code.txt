@@ -1,0 +1,3 @@
+ t1<-table(DATA$`Food Name`[DATA$Area=='andheri'])
+> View(t1)
+> barplot(t1,main = 'no of andheri food places',xlab='FOOD NAME',ylab = 'no of places')

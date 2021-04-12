@@ -1,0 +1,71 @@
+div.jumbotron{
+  text-align:center;
+  border-radius:25px;
+  background-color:rgba(255,255,255,0.40);
+}
+
+div#gb.container{
+  text-align:center;
+}
+
+div.hn{
+  text-align:center;
+}
+
+div#carousel-1.carousel.slide{
+  padding:20px;
+  border-radius:40px;
+}
+
+img#df.bg{
+  height:478px;
+  width:100%;
+}
+
+i.glyphicon.glyphicon-cutlery{
+  font-size:21px;
+}
+
+body{
+  background:linear-gradient(black,rgb(163,58,58));
+}
+
+h1{
+  color:white;
+}
+
+h1{
+  color:white;
+}
+
+h1#cs{
+  color:#ffffff;
+}
+
+body{
+  font-family:Georgia,"Times New Roman",Times,serif;
+  font-size:15px;
+  line-height:1.42857143;
+  color:#191919;
+  background-color:#ffffff;
+}
+
+div.promo{
+  margin-top:300px;
+  margin-bottom:200px;
+  background: url(C:\Users\Pranali\Desktop\FinalPro\AboutUs\assets\img\food1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+form{
+  color:white;
+  font-size:30px;
+  text-align:center;
+  border-radius:10px solid white;
+  padding: 40px;
+}
+
+h1.abt{
+  font-size:50px;
+}

@@ -1,0 +1,94 @@
+body{
+  font-family:Helvetica,Arial,sans-serif;
+  background:url(../../assets/img/abcs.jpg);
+  background-size:contain;
+  background-repeat:no-repeat;
+}
+
+#promo{
+  text-align:center;
+  padding:40px;
+  margin-top:50px;
+}
+
+@media (max-width:991px) {
+  #promo{
+    padding:20px;
+  }
+}
+
+#promo .jumbotron{
+  border-radius:25px;
+  padding:48px;
+  background-color:rgba(255,255,255,0.24);
+  max-width:800px;
+  margin:0 auto;
+}
+
+@media (max-width:991px) {
+  #promo .jumbotron{
+    padding:20px;
+  }
+}
+
+.dark-section{
+  background-color:#262626;
+}
+
+.site-section{
+  text-align:center;
+  padding:70px;
+}
+
+.site-section h1{
+  font-weight:normal;
+  margin-bottom:30px;
+  margin-top:60px;
+}
+
+#why item{
+  padding-top:36px;
+}
+
+#welcome p{
+  max-width:800px;
+  margin:0 auto;
+  font-size:20px;
+}
+
+#why .item h2{
+  font-weight:normal;
+  margin-top:13px;
+  margin-bottom:28px;
+  font-size:24px;
+}
+
+i#logo.fa.fa-heartbeat{
+  font-size:25px;
+  display:inline-block;
+  margin-top:-4px;
+  margin-right:4px;
+}
+
+#why .item i{
+  font-size:85px;
+}
+
+div#md{
+  margin-top:100px;
+}
+
+h1#dq{
+  font-size:70px;
+  color:#dd8501;
+  margin-top:-20px;
+}
+
+button.btn.btn-success.btn-lg.dropdown-toggle{
+  margin-top:45px;
+}
+
+div#fd.row{
+  margin-top:140px;
+}
+

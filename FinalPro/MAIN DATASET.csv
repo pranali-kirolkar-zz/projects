@@ -1,0 +1,200 @@
+Sr no.,     Food Name,                        Shop,        Area, Rating,          Restaurant Type
+,,,,,
+1,  Dosa,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant
+2, Dosa,Caf‚ Madras,matunga,4.4,"South Indian 
+restaurant"
+3,rava sada dosa,Hotel Ram Ashraya,matunga,4.7,South Indian Restaurant
+4,Mysore Masala Dosa,Cafe Mysore,matunga,4,"South Indian 
+restaurant"
+5,ÿNeer Dosa,South High Restaurant & Bar,matunga,4.2,"South Indian 
+restaurant"
+6,ÿNeer Dosa,Tanatan,juhu,4.5,modern indian 
+7,panner tikka dosa,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant
+8,pizza dosa,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant
+9,neer dosa,Hotel Ram Ashraya,matunga,4.7,South Indian Restaurant
+10,rava sada dosa,Cafe Mysore,matunga,4,"South Indian 
+restaurant"
+11,jini dosa,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant
+12,rava sada dosa,Hotel Ram Ashraya,matunga,4.7,South Indian Restaurant
+13,Mysore Masala Dosa,Arya Bhavan,matunga,4.9,"South Indian 
+restaurant"
+14,filter coffee,"South of Vindhyas - 
+the orchid",vile parle,4.5,South Indian Restaurant
+15,filter coffee,Hotel Ram Ashraya,matunga,4.7,"South Indian 
+restaurant"
+16,filter coffee,Arya Bhavan,matunga,4.9,"South Indian 
+restaurant"
+17,filter coffee,Cafe Mysore,matunga,4,"South Indian 
+restaurant"
+18,Filter Coffee,"A.Rama Nayak's Udipi Shri 
+Krishna Boarding",matunga,4.4,"South Indian 
+restaurant"
+19,upma podi,Caf‚ Madras,Matunga,4.4,"South Indian 
+restaurant"
+20,Pineapple Sheera,Hotel Ram Ashraya,matunga,4.7,"South Indian 
+restaurant"
+21,Pineapple Sheera,Arya Bhavan,matunga,4.9,"South Indian 
+restaurant"
+22,Pineapple Sheera,Caf‚ Madras,matunga,4.4,"South Indian 
+restaurant"
+23,Pineapple Sheera,Cafe Mysore,matunga,4,"South Indian 
+restaurant"
+24,Pav Bhaji,Arya Bhavan,matunga,4.9,"South Indian 
+restaurant"
+25,"ÿPav Bhaji,",Cafe Mysore,matunga,4,"South Indian 
+restaurant"
+26,Pav Bhaji,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant
+27,pav bhaji,Amar Fast Food & Restaurant,vashi,4.2,Vegetarian Restaurant
+28,pav bhaji,R' ADDA,juhu,4.5.,     Fast Food Restaurant
+29,,,,,
+30,,,,,
+31,,,,,
+32,Gujarati Food,Soam Restaurant,girgaon,4.3,Indian restaurant
+33,Rajasthani Thali,Maharaja Bhog,parel,4.3,Gujarati restaurant
+34,,,,,
+35,Mocktails,The Fan Club,koperkhairane,4.5,North indian restaurant
+36,Mocktails,Royal Oak Brewery,vashi,4.5,North indian restaurant
+37,Mocktails,House Of Tipsy,bandra,4.5,North indian restaurant
+38,Mocktails,The Yellow Chilli,dadar,4.2,North indian restaurant
+39,Mocktails,Tanatan,juhu,4.5,modern indian 
+40,Mocktails,Yeda Republic,juhu,4.9,pizza 
+41,Mocktails,Tamasha,parel,4.9,finger food
+42,Mocktails,Almond Flowerr,andheri,4.1,North indian restaurant
+43,Mocktails,Rik? - Terrace Bar & Grill,andheri,4.2,North indian restaurant
+44,Mocktails,Tipsy Gypsy,new link road,4.7,italian restaurant
+45,Mocktails,Lord of the Drinks,new link road,4.8,North indian restaurant
+46,Mocktails,Bombay Cocktail Bar,andheri,4.3,North indian restaurant
+47,Prawn Sushi,Jia The Oriental Kitchen,colaba,4.4,Asian Restaurant
+48,sushi,Bombay Cocktail Bar,andheri,4.3,North indian restaurant
+49,Masala Peanuts,Rik? - Terrace Bar & Grill,andheri,4.2,North indian restaurant
+50,Masala Peanuts,Almond Flowerr,andheri,4.1,North indian restaurant
+51,chocolate cake,"Golden Dragon - The Taj 
+Mahal Palace",colaba,4.6,Chinese Restaurant
+52,Chocolate Fudge,Lord of the Drinks,new link road,4.8,North indian restaurant
+53,"ÿChocolate Milkshake,ÿSoya Cha",Qilaa de Vashi,vashi,4.1,Indian restaurant
+54,Chocolate bomb,Jia The Oriental Kitchen,colaba,4.4,Asian Restaurant
+55,Crunchy Chicken Burger,R' ADDA,juhu,4.5.,     Fast Food Restaurant
+56,Burgers,Yeda Republic,juhu,4.9,pizza 
+57,Chic Burger,Genuine Broaster Chicken,vashi,4.5,italian restaurant
+58,Chicken Burger,Smoking Pizza,koperkhairane,3.8,fast food
+59,Burgers,70 beans,sanpada,4.5,North indian restaurant
+60,veg burger,Genuine Broaster Chicken,vashi,4.5,italian restaurant
+61,Burgers,Genuine Broaster Chicken,vashi,4.5,italian restaurant
+62,Biryani,Tipsy Gypsy,new link road,4.7,italian restaurant
+63,Biryani,R' ADDA,juhu,4.5.,     Fast Food Restaurant
+64,Chicken Biryani,The Yellow Chilli,dadar,4.2,North indian restaurant
+65,Mutton Biryani,Behrouz Biryani,koperkhairane,3.9,biryani
+66,Biryani,BOX8- Desi Meals,koperkhairane,4.1,North indian restaurant
+67,Biryani,Lord of the Drinks,new link road,4.8,North indian restaurant
+68,Biryani,BOX8- Desi Meals,koperkhairane,4.1,North indian restaurant
+69,cheesy pizza,Smoking Pizza,koperkhairane,3.8,fast food
+70,veggies pizza,Smoking Pizza,koperkhairane,3.8,fast food
+71,Pizza,BOX8- Desi Meals,koperkhairane,4.1,North indian restaurant
+72,Pizza,Tipsy Gypsy,new link road,4.7,italian restaurant
+73,Pizza,Tamasha,parel,4.9,finger food
+74,Pizza,Smoking Pizza,koperkhairane,3.8,fast food
+75,ÿHouse Pizza,MOJO Pizza- Doubly Loaded,koperkhairane,4.2,pizza 
+76,pizza,70 beans,sanpada,4.5,North indian restaurant
+77,pizza,Yeda Republic,juhu,4.9,pizza 
+78,rasam vada,Arya Bhavan,matunga,4.9,"South Indian 
+restaurant"
+79,keem pav,R' ADDA,juhu,4.5.,     Fast Food Restaurant
+80,masala pav,Arya Bhavan,matunga,4.9,"South Indian 
+restaurant"
+81,cocktails,Lord of the Drinks,new link road,4.8,North indian restaurant
+82,cocktails,The Fan Club,koperkhairane,4.5,North indian restaurant
+83,cocktails,R' ADDA,juhu,4.5.,     Fast Food Restaurant
+84,cocktails,South High Restaurant & Bar,matunga,4.2,"South Indian 
+restaurant"
+85,cocktails,Tanatan,juhu,4.5,modern indian 
+86,cocktails,Royal Oak Brewery,vashi,4.5,North indian restaurant
+87,cocktails,House Of Tipsy,bandra,4.5,North indian restaurant
+88,cocktails,Yeda Republic,juhu,4.9,pizza 
+89,cocktails,Tamasha,parel,4.9,finger food
+90,cocktails,The Yellow Chilli,dadar,4.2,North indian restaurant
+91,cocktails,Rik? - Terrace Bar & Grill,andheri,4.2,North indian restaurant
+92,cocktails,Tipsy Gypsy,new link road,4.7,italian restaurant
+93,cocktails,Bombay Cocktail Bar,andheri,4.3,North indian restaurant
+94,cocktails,Jia The Oriental Kitchen,colaba,4.4,Asian Restaurant
+95,cocktails,Genuine Broaster Chicken,vashi,4.5,italian restaurant
+96,appam,South High Restaurant & Bar,matunga,4.2,"South Indian 
+restaurant"
+97,appam,"South of Vindhyas - 
+the orchid",vile parle,4.5,South Indian Restaurant
+98,Pepper chicken,"South of Vindhyas - 
+the orchid",vile parle,4.5,South Indian Restaurant
+99,pepper chicken,"Golden Dragon - The Taj 
+Mahal Palace",colaba,4.6,Chinese Restaurant
+100,,,,,
+101,butter chicken,BOX8- Desi Meals,koperkhairane,4.1,North indian restaurant
+102,butter chciken,Tanatan,juhu,4.5,modern indian 
+103,mangalorean chicken,Tanatan,juhu,4.5,modern indian 
+104,butter chicken,Tamasha,parel,4.9,finger food
+105,Hunan chicken,Bombay Cocktail Bar,andheri,4.3,North indian restaurant
+106,,,,,
+107,,,,,
+108,rava idli,"A.Rama Nayak's Udipi 
+idli house",Matunga,4.4,"South Indian 
+restaurant"
+109,Idli,Caf‚ Madras,matunga,4.4,"South Indian 
+restaurant"
+110,podi idli,Hotel Ram Ashraya,matunga,4.7,"South Indian 
+restaurant"
+111,Idli,Hotel Ram Ashraya,matunga,4.7,South Indian Restaurant
+112,idli,South High Restaurant & Bar,matunga,4.2,"South Indian 
+restaurant"
+113,masala idli,"A.Rama Nayak's Udipi 
+idli house",Matunga,4.4,"South Indian 
+restaurant"
+114,butter idli,"A.Rama Nayak's Udipi 
+idli house",Matunga,4.4,"South Indian 
+restaurant"
+115,pepper idli,"A.Rama Nayak's Udipi 
+idli house",Matunga,4.4,"South Indian 
+restaurant"
+116,kanchipuram idli,"A.Rama Nayak's Udipi 
+idli house",Matunga,4.4,"South Indian 
+restaurant"
+117,"ice cream and hot pazham pori-
+","South of Vindhyas - 
+the orchid",vile parle,4.5,South Indian Restaurant
+118,sandwich,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant
+119,sandwich,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant
+120,sandwich,Tipsy Gypsy,new link road,4.7,italian restaurant
+121,sandwich,BOX8- Desi Meals,koperkhairane,4.1,North indian restaurant
+122,sandwich,70 beans,sanpada,4.5,North indian restaurant
+123,Nachos,Lord of the Drinks,new link road,4.8,North indian restaurant
+124,Nachos,Rik? - Terrace Bar & Grill,andheri,4.2,North indian restaurant
+125,Nachos,R' ADDA,juhu,4.5.,     Fast Food Restaurant
+126,Nachos,House Of Tipsy,bandra,4.5,North indian restaurant
+127,Nachos,Tamasha,parel,4.9,finger food
+128,nachos,Genuine Broaster Chicken,vashi,4.5,italian restaurant
+129,paratha,Soam Restaurant,girgaon,4.3,Indian restaurant
+130,Brownie,House Of Tipsy,bandra,4.5,North indian restaurant
+131,Brownie,The Fan Club,koperkhairane,4.5,North indian restaurant
+132,Brownie,70 beans,sanpada,4.5,North indian restaurant
+133,chaat,Maharaja Bhog,parel,4.3,Gujarati restaurant
+134,Bhel puri,Soam Restaurant,girgaon,4.3,Indian restaurant
+135,chaat,Soam Restaurant,girgaon,4.3,Indian restaurant
+136,Dhokala,Maharaja Bhog,parel,4.3,Gujarati restaurant
+137,Double Chocolate Cheesecake,DANIEL P?TISSIER,bandra,4.5,bekary
+138,Hot Chocolate,Poetry by Love and Cheesecake,bandra,4.5,caf‚
+139,Hot Chocolate,70 beans,sanpada,4.5,North indian restaurant
+140,Nutella Pancakes,Poetry by Love and Cheesecake,bandra,4.5,caf‚
+141,Fruit salad,Maharaja Bhog,parel,4.3,Gujarati restaurant
+142,chicken ceaser salad,House Of Tipsy,bandra,4.5,North indian restaurant
+143,Rasgulla,Maharaja Bhog,parel,4.3,Gujarati restaurant
+144,pepper Tikka,The Fan Club,koperkhairane,4.5,North indian restaurant
+145,pepper Tikka,The Yellow Chilli,dadar,4.2,North indian restaurant
+146,panner tikka,Bombay Cocktail Bar,andheri,4.3,North indian restaurant
+147,Amritsari chhole,The Fan Club,koperkhairane,4.5,North indian restaurant
+148,fries,Genuine Broaster Chicken,vashi,4.5,italian restaurant
+149,chilli fries,Rik? - Terrace Bar & Grill,andheri,4.2,North indian restaurant
+150,peri fries,Royal Oak Brewery,vashi,4.5,North indian restaurant
+151,pasta,Genuine Broaster Chicken,vashi,4.5,italian restaurant
+152,penne pasta,Royal Oak Brewery,vashi,4.5,North indian restaurant
+153,pasta alferto,House Of Tipsy,bandra,4.5,North indian restaurant
+154,pasta ,70 beans,sanpada,4.5,North indian restaurant
+155,pasta ,Smoking Pizza,koperkhairane,3.8,fast food
+156,veg cheese grill,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant
+157,veg cheese grill,  Anand Dosa and Vada Pav Stall,   Vile Parle ,4.2,     Fast Food Restaurant

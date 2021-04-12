@@ -1,0 +1,78 @@
+.footer{
+  clear:both;
+  width:100%;
+  width:100%;
+  min-height:300px;
+  background-color:rgba(255,2,2,0.45);
+}
+
+.footer .widget-footer{
+  min-height:240px;
+  width:100%;
+}
+
+.footer .widgets{
+  width:20%;
+  min-height:220px;
+  padding:2.5%;
+  float:left;
+}
+
+.footer .widgets h4{
+  color:white;
+  border-bottom:1px solid rgba(0,128,0,0.23);
+  font-size:15px;
+}
+
+.footer .widgets p{
+  color:black;
+  font-size:small;
+  margin:8px 0px;
+}
+
+.footer .widgets strong{
+  color:darkslategrey;
+}
+
+.footer .subscribe-text{
+  border:1px solid rgba(0,128,0,0.23);
+  width:100%;
+  border-radius:100px;
+  height:25px;
+}
+
+.footer .subscribe-btn{
+  border:1px solid #d8ffe2;
+  background-image:linear-gradient(#4db345,#aef382);
+  color:#338c08;
+  font-size:13px;
+  padding:3px 10px;
+  border-radius:100px;
+  margin-top:10px;
+}
+
+.subscribe-btn:hover{
+  cursor:pointer;
+  background-image:linear-gradient(#3bad33,#baefab);
+}
+
+.footer .widgets img{
+  margin:2px;
+}
+
+.footer .main-footer{
+  clear:both;
+  width:100%;
+  height:60px;
+  background:rgba(0,0,0,0.5);
+}
+
+.footer .main-footer p{
+  color:white;
+  text-align:center;
+}
+
+a{
+  color:black;
+}
+

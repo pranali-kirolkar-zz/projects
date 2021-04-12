@@ -1,0 +1,12 @@
+REGISTRY COM
+REGISTRAR -BIGROCK,GODADY
+REGISTRANT WHO OWNS WEBSITE
+
+COM-vrisign
+IN-nixi
+
+domain
+design
+hosting
+
+contact@rizwanonline.com
